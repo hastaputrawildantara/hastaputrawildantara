@@ -18,6 +18,22 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=hastaputrawildantara&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<h2 align="left">Playing Game With Me</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hastaputrawildantara/hastaputrawildantara/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hastaputrawildantara/hastaputrawildantara/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hastaputrawildantara/hastaputrawildantara/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/hastaputrawildantara/hastaputrawildantara/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- #### Skills
